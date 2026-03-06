@@ -1,4 +1,4 @@
-# M. S. | Computer Science Student (6th Semester)
+Computer Science Student (6th Semester)
 
 **Computer Science student with solid foundations in C, Java & Python | Learning Fullstack Development | Practical experience with .NET & Web technologies from university projects**
 
