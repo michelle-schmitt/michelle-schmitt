@@ -7,7 +7,7 @@
 ## 🔹 Current Projects
 
 - **Homework Tracker** – Fullstack Web-App (React + .NET) to manage university assignments.  
-- **Minesweeper (C)** – Console game developed as part of a team project.  
+- **[Minesweeper (C)](https://github.com/michelle-schmitt/minesweeper-c)** – Console game developed as part of a team project.  
 - **Sudoku Game (Python)** – Team project implementing basic GUI and logic.
 
 ---
